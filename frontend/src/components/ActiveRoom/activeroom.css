@@ -1,0 +1,28 @@
+.room-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.content-container {
+  display: flex;
+}
+
+.user-container {
+  width: 20%;
+}
+
+.message-input-place {
+  width: 80%;
+}
+
+.message-container-place {
+  border-left: 1px solid grey;
+  background: #dddddd;
+  height: 82vh;
+}
+
+.input-container-place {
+  border-top: 1px solid grey;
+  border-left: 1px solid grey;
+  height: 10vh;
+}

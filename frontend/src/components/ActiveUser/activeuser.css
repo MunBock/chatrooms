@@ -1,0 +1,23 @@
+.active-user-container {
+  width: 100%;
+  padding: 10px 0 0 10px;
+}
+
+.active-user-title {
+  font-size: 20px;
+}
+
+.active-user-content {
+  display: flex;
+  margin-top: 5px;
+}
+
+.active-username {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.active-dot {
+  margin-left: 5px;
+  color: lightgreen;
+}

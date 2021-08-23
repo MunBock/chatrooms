@@ -1,0 +1,26 @@
+.message-form {
+  display: flex;
+  height: 10vh;
+}
+
+.message-input {
+  padding: 15px;
+  width: 80%;
+  border: none;
+  font-size: 20px;
+}
+
+.message-input:focus {
+  outline: none;
+}
+
+.send-message-button {
+  color: white;
+  text-transform: uppercase;
+  background: #7c5295;
+  padding: 10px;
+  cursor: pointer;
+  border: none;
+  width: 20%;
+  font-size: 20px;
+}

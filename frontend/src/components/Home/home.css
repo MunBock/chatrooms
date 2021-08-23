@@ -1,0 +1,47 @@
+.home-place {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #dddddd;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.join-input {
+  width: 200px;
+  height: 40px;
+  padding: 0 0 0 10px;
+  margin-bottom: 15px;
+  border: 1px solid white;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.join-input:focus {
+  outline: 0;
+}
+
+.join-button {
+  padding: 10px;
+  color: white;
+  background: #7c5295;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.join-button-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.join-input::placeholder {
+  font-size: 15px;
+}

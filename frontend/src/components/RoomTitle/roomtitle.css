@@ -1,0 +1,31 @@
+.room-title-place {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #7c5295;
+  height: 50px;
+}
+
+.room-title-container {
+  display: flex;
+  margin-left: 15px;
+  color: white;
+}
+
+.room-title {
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.active-room-dot {
+  display: flex;
+  align-items: center;
+  margin-left: 5px;
+  color: lightgreen;
+}
+
+.room-close {
+  color: white;
+  margin-right: 15px;
+}
