@@ -6,7 +6,7 @@
 ### Setup (frontend & backend)
 
 ```
-npm i
+npm install
 cd frontend
 npm i
 ```
